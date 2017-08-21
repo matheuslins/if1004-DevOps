@@ -6,7 +6,7 @@ This homework will prepare me for basic setup for the course.
 
 ##### **Slack**
 
-![Slack](https://files.slack.com/files-pri/T6JMNT0C9-F6KBTU2QJ/screenshot_2017-08-07-19-19-14.png "Slack msl profile")
+![Slack](./imagens/slack-profile.png)
 
 ##### **Github**
 
@@ -14,17 +14,19 @@ This homework will prepare me for basic setup for the course.
 
 ## Learning Git
 
-![Gitbranching]()
+Completed all course except the advance themes.
+
+![Gitbranching](./imagens/git.png)
 
 ## Hooks
 
 ```shell
 #!/bin/bash
 
-xdg-open https://github.com/if1004-DevOps
+xdg-open https://github.com/matheuslins/if1004-DevOps
 ```
 
-![post-commit]()
+![post-commit](./imagens/hooks.gif)
 
 ## Concepts
 
