@@ -58,4 +58,4 @@ In a nutshell, a change is put into production proof for the end user to do a te
 
 #### **Be Fast to Deploy but Slow (or Slower) to Release**
 
-It's the ability to "launch" a new feature without affecting the production environment where customers are actively using it. This allows the company to test the success of it.
+It's the ability to "launch" a new feature without affecting the production environment where customers are actively using it. This allows the company to test the success of the same without the rush to put into production a larger delivery, a release
