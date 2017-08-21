@@ -21,9 +21,12 @@ Completed all course except the advance themes.
 ## Hooks
 
 ```shell
-#!/bin/bash
+#!/usr/bin/env python
 
-xdg-open https://github.com/matheuslins/if1004-DevOps
+import webbrowser
+
+webbrowser.open ("https://github.com/matheuslins/if1004-DevOps")
+
 ```
 
 ![post-commit](./imagens/hooks.gif)
