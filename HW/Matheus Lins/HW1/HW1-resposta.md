@@ -49,8 +49,13 @@ Continuous deployment is a process that any changes are deployment without expli
 
 #### **How does DevOps team model (e.g., site reliability engineer) differ than a a NoOps team model (e.g. Netflix team)? What differences in architecture allow for a NoOps model?**
 
+In a DevOps model, as the name implies, there is a mix of development and operation, which makes the dev team also responsible for testing and deploying staging, thus making the team better prepared and divided responsibilities. In the NoOps model, all the responsibility of testing until the deploy in production stays with the development team, causing the Ops team to worry about what they really need to worry about, to create guides and standards for development to become more efficient.
+
 
 #### **Explain the principle of Every Feature is an Experiment**
 
+In a nutshell, a change is put into production proof for the end user to do a test (usually unknowingly), and if that test matches the expectations of the company, it is enforced, otherwise it is deleted.
 
 #### **Be Fast to Deploy but Slow (or Slower) to Release**
+
+It's the ability to "launch" a new feature without affecting the production environment where customers are actively using it. This allows the company to test the success of it.
