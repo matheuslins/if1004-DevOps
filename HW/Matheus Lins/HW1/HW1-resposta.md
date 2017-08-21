@@ -37,9 +37,15 @@ webbrowser.open ("https://github.com/matheuslins/if1004-DevOps")
 
 **Continuos integration**
 
+Continuos integration is...
+
 **Continuos delivery**
 
+Continuos delivery is...
+
 **Continuous deployment**
+
+Continuous deployment is...
 
 #### **How does DevOps team model (e.g., site reliability engineer) differ than a a NoOps team model (e.g. Netflix team)? What differences in architecture allow for a NoOps model?**
 
