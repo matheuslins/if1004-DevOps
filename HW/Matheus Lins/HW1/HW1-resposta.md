@@ -37,15 +37,15 @@ webbrowser.open ("https://github.com/matheuslins/if1004-DevOps")
 
 **Continuos integration**
 
-Continuos integration is...
+Continuos integration is a methodology witch the code team merging code to a central repository many time a day. Before each merge, generally into master, triggers an automated build and testing sequence. The new codes are build on stage after pass all unit testing and another's checks that depends on the complexity of the project.
 
 **Continuos delivery**
 
-Continuos delivery is...
+Continuous deployment is a practice of automating delivery software release process. It’s a second step. After CI plus automatically prepare and track a release to production. The ideal implementation is that anyone with sufficient power to deploy a new release, any time, with one or a few clicks.
 
 **Continuous deployment**
 
-Continuous deployment is...
+Continuous deployment is a process that any changes are deployment without explicit approval from any developer. In other words, is a fully automated deployment to production.
 
 #### **How does DevOps team model (e.g., site reliability engineer) differ than a a NoOps team model (e.g. Netflix team)? What differences in architecture allow for a NoOps model?**
 
